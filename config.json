@@ -1,0 +1,9 @@
+{
+    "download_frequency": "1 second",
+    "wallpaper_type": "landscape",
+    "daily_download_limit": 6,
+    "manual_download": false,
+    "resolution": "3840x2160",
+    "save_location": "E:\\Projects\\bing-wallpaper-downloader\\data\\wallpapers",
+    "preview_fetch_count": 8
+}
